@@ -36,6 +36,6 @@
 ## 🔗 Enlaces Importantes de Entrega
 * 📂 **Carpeta Compartida en OneDrive:** [Enlace a OneDrive](https://itceduco-my.sharepoint.com/:f:/g/personal/jgonzalezmo_itc_edu_co/IgDICDJHsljTQYm4EyMIRZwTAVJKOJN765VaMB5GII1VeJo?e=QiYePe)
 * 📋 **Tablero de Seguimiento Trello:** [Enlace a Trello](https://trello.com/b/EaRzt4s2/ia-assist-admin)
-* 🎨 **Prototipo Navegable en Figma:** [Enlace a Figma](https://www.figma.com/design/aK11BiaSuUQv54VhQ3o17G/IA_Assist_Admin_Prototipo?node-id=5-35&t=AHcIdodTgrwrQvDG-0)
+* 🎨 **Prototipo Navegable en Figma:** [Enlace a Figma](https://www.figma.com/design/aK11BiaSuUQv54VhQ3o17G/IA_Assist_Admin_Prototipo?node-id=5-7&p=f&t=ibQrgTUytxsnyS8W-0).
 
   
